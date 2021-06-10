@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Alex!
 I'm a Full-Stack Web Developer based in Irvine, CA. My coding journey began when I took "Intro to C Programming" while I was studying Mechanical Engineering at Cal Poly SLO.  
 
-After graduating, I worked in a non-technical role for Cru, a religious organization that mentors college and highschool students, but after 2 years, I realized my heart and passion was in the tech industry.
+After graduating, I worked in a non-technical role for Cru, a religious organization that mentors college and high school students, but after 2 years, I realized my heart and passion was in the tech industry.
 
 Shortly after that, I enrolled in an Accelerated Web Development Program called LearningFuze. After 800+ hours of programming (80 hours/week), I fell in love with programming.  
 
