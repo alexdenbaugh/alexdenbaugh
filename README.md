@@ -9,7 +9,7 @@ My current stack includes JavaScript, React.js, Node.js, PostgreSQL, CSS and HTM
 
 ### 🔭 I’m currently working on 
 - :bird::game_die: [Phoenix Games](https://github.com/alexdenbaugh/final-project)
--- A boardgame borrowing app.
+-- An app for lending and borrowing boardgames.
 - :heavy_division_sign::mage_man: [Math Wizard](https://github.com/alexdenbaugh/ajax-project)
 -- A math tutoring app
 
