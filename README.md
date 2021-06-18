@@ -13,9 +13,9 @@ My current stack includes JavaScript, React.js, Node.js, PostgreSQL, CSS and HTM
 - :heavy_division_sign::mage_man: [Math Wizard](https://github.com/alexdenbaugh/ajax-project)
 -- A math tutoring app
 
-
+<!-- 
 ### 🌱 I’m currently learning...
-- Bootstrap
+- Bootstrap -->
 
 
 ### :rocket: Let's get connected!
