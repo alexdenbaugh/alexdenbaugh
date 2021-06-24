@@ -7,12 +7,20 @@ Shortly after that, I enrolled in an Accelerated Web Development Program called 
 
 My current stack includes JavaScript, React.js, Node.js, PostgreSQL, CSS and HTML.  I look forward to adding to this list as I grow as a developer. 
 
-### 🔭 I’m currently working on 
+### :iphone: My projects
+#### :bird::game_die: Phoenix Games
+-- An app for lending and borrowing boardgames.
+[GitHub](https://github.com/alexdenbaugh/final-project) | [Website](https://phoenix-games.herokuapp.com/)
+#### :heavy_division_sign::mage_man:
+-- A math tutoring app
+[GitHub](https://github.com/alexdenbaugh/ajax-project) | [Website](https://alexdenbaugh.github.io/math-wizard/)
+
+<!-- ### 🔭 I’m currently working on 
 - :bird::game_die: [Phoenix Games](https://github.com/alexdenbaugh/final-project)
 -- An app for lending and borrowing boardgames.
 - :heavy_division_sign::mage_man: [Math Wizard](https://github.com/alexdenbaugh/ajax-project)
 -- A math tutoring app
-
+ -->
 <!-- 
 ### 🌱 I’m currently learning...
 - Bootstrap -->
