@@ -12,7 +12,7 @@ My current stack includes JavaScript, React.js, Node.js, PostgreSQL, CSS and HTM
   - An app for lending and borrowing boardgames.
 
 - #### :heavy_division_sign::mage_man: Math Wizard // [GitHub](https://github.com/alexdenbaugh/ajax-project) | [Website](https://alexdenbaugh.github.io/math-wizard/)
-  - A math tutoring app
+  - A math tutoring app.
 
 
 <!-- ### 🔭 I’m currently working on 
