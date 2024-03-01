@@ -5,7 +5,7 @@ After graduating, I worked in a non-technical role for Cru, a religious organiza
 
 Shortly after that, I enrolled in an Accelerated Web Development Program called LearningFuze. After 800+ hours of programming (80 hours/week), I fell in love with programming.  
 
-My current stack includes JavaScript, React.js, Node.js, PostgreSQL, CSS and HTML.  I look forward to adding to this list as I grow as a developer. 
+My current stack includes JavaScript, TypeScript, React.js, Node.js, PostgreSQL, CSS and HTML.  I look forward to adding to this list as I grow as a developer. 
 
 ### :iphone: My projects
 - #### :bird::game_die: Phoenix Games // [GitHub](https://github.com/alexdenbaugh/final-project) | [Website](https://phoenix-games.herokuapp.com/)
