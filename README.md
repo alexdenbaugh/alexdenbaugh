@@ -29,7 +29,7 @@ My current stack includes JavaScript, TypeScript, React.js, Node.js, PostgreSQL,
 ### :rocket: Let's get connected!
 - :link: Linkedin: https://www.linkedin.com/in/alex-denbaugh/
 - :email: Email: alexdenbaugh@gmail.com
-- :briefcase: Resume: [alexdenbaugh]([https://www.hiration.com/dieu/resume/alexdenbaugh/pdf](https://www.hiration.com/dieu/resume/alexdenbaugh/pdf))
+- :briefcase: Resume: [alexdenbaugh](https://www.hiration.com/dieu/resume/alexdenbaugh/pdf)
 
 ### :chart_with_upwards_trend: Check out my stats!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexdenbaugh&&count_private=true&hide=stars,issues,contribs&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
