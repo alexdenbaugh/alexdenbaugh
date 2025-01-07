@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Alex!
-I'm a Full-Stack Web Developer based in Irvine, CA. My coding journey began when I took "Intro to C Programming" while I was studying Mechanical Engineering at Cal Poly SLO.  
+I'm a Full-Stack Web Developer based in Temecula, CA. My coding journey began when I took "Intro to C Programming" while I was studying Mechanical Engineering at Cal Poly SLO.  
 
 After graduating, I worked in a non-technical role for Cru, a religious organization that mentors college and high school students, but after 2 years, I realized my heart and passion was in the tech industry.
 
@@ -32,7 +32,6 @@ My current stack includes JavaScript, TypeScript, React.js, Node.js, PostgreSQL,
 - :briefcase: Resume: [alexdenbaugh](https://www.hiration.com/dieu/resume/alexdenbaugh/pdf)
 
 ### :chart_with_upwards_trend: Check out my stats!
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexdenbaugh&&count_private=true&hide=stars,issues,contribs&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexdenbaugh&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
