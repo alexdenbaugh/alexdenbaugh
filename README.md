@@ -14,7 +14,7 @@ I'm a Full-Stack Web Developer based in Temecula, CA.
 - :email: Email: alexdenbaugh@gmail.com
 - :briefcase: Resume: [alexdenbaugh](https://www.hiration.com/dieu/resume/alexdenbaugh/pdf)
 
-### Tech I have used:
+## Tech I have used:
 
 ### Languages
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
