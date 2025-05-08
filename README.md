@@ -3,7 +3,7 @@ I'm a Full-Stack Web Developer based in Temecula, CA.
 
 ### What I am Currently working on
 - Lead Software Engineer @ Exact Controls working on our company website, customer portal and other cool projects.
-- Working on a mobile app for booking called Pug, hosting and playing pick up sports games ⚽🏀🏈🏉
+- Working on Pug, a mobile app for booking, hosting and playing pick up sports games ⚽🏀🏈🏉
 
 <!-- 
 ### 🌱 I’m currently learning...
