@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Alex!
 I'm a Full-Stack Web Developer based in Temecula, CA.
 
-### What I am Currently working on
+## What I am Currently working on
 - Lead Software Engineer @ Exact Controls working on our company website, customer portal and other cool projects.
 - Working on Pug, a mobile app for booking, hosting and playing pick up sports games ⚽🏀🏈🏉
 
@@ -9,10 +9,12 @@ I'm a Full-Stack Web Developer based in Temecula, CA.
 ### 🌱 I’m currently learning...
 - Bootstrap -->
 
-### :rocket: Let's get connected!
+## :rocket: Let's get connected!
 - :link: Linkedin: https://www.linkedin.com/in/alex-denbaugh/
 - :email: Email: alexdenbaugh@gmail.com
 - :briefcase: Resume: [alexdenbaugh](https://www.hiration.com/dieu/resume/alexdenbaugh/pdf)
+
+### Tech I have used:
 
 ### Languages
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -59,7 +61,7 @@ I'm a Full-Stack Web Developer based in Temecula, CA.
 ![ESLINT](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-### :iphone: My projects
+## :iphone: My projects
 - #### Company Website // [exactcontrols.com](https://exactcontrols.com)
   - Written in React and Typescript
    
