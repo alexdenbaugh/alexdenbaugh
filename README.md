@@ -65,7 +65,7 @@ I'm a Full-Stack Web Developer based in Temecula, CA.
 - #### Company Website // [exactcontrols.com](https://exactcontrols.com)
   - Written in React and Typescript
    
-- #### Pug
+- #### Pug // a mobile app for booking, hosting and playing pick up sports games ⚽🏀🏈🏉
   - Currently in Beta testing; link to landing page for Beta coming soon.
   
 - #### :bird::game_die: Phoenix Games (student project) // [GitHub](https://github.com/alexdenbaugh/final-project) | [Website](https://phoenix-games-c1a11532bd6b.herokuapp.com/)
