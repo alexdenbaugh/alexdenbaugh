@@ -1,23 +1,13 @@
 ## Hi there 👋 I'm Alex!
-I'm a Full-Stack Web Developer based in Temecula, CA. My coding journey began when I took "Intro to C Programming" while I was studying Mechanical Engineering at Cal Poly SLO.  
+I'm a Full-Stack Web Developer based in Temecula, CA.
 
-After graduating, I worked in a non-technical role for Cru, a religious organization that mentors college and high school students, but after 2 years, I realized my heart and passion was in the tech industry.
-
-Shortly after that, I enrolled in an Accelerated Web Development Program called LearningFuze. After 800+ hours of programming (80 hours/week), I fell in love with programming.  
-
-My current stack includes JavaScript, TypeScript, React.js, Node.js, PostgreSQL, CSS and HTML.  I look forward to adding to this list as I grow as a developer. 
-
-### :iphone: My projects
-- #### :bird::game_die: Phoenix Games // [GitHub](https://github.com/alexdenbaugh/final-project) | [Website](https://phoenix-games-c1a11532bd6b.herokuapp.com/)
-  - An app for lending and borrowing boardgames.
-
-- #### :heavy_division_sign::mage_man: Math Wizard // [GitHub](https://github.com/alexdenbaugh/ajax-project) | [Website](https://alexdenbaugh.github.io/math-wizard/)
-  - A math tutoring app.
+### What I am Currently working on
+- Lead Software Engineer @ Exact Controls working on our company website, customer portal and other cool projects.
+- Working on a mobile app for booking, hosting and playing pick up sports games ⚽🏀🏈🏉
 
 <!-- 
 ### 🌱 I’m currently learning...
 - Bootstrap -->
-
 
 ### :rocket: Let's get connected!
 - :link: Linkedin: https://www.linkedin.com/in/alex-denbaugh/
@@ -68,3 +58,16 @@ My current stack includes JavaScript, TypeScript, React.js, Node.js, PostgreSQL,
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![ESLINT](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+### :iphone: My projects
+- #### Company Website // [exactcontrols.com](https://exactcontrols.com)
+  - Written in React and Typescript
+   
+- #### Pug
+  - Currently in Beta testing; link to landing page for Beta coming soon.
+  
+- #### :bird::game_die: Phoenix Games (student project) // [GitHub](https://github.com/alexdenbaugh/final-project) | [Website](https://phoenix-games-c1a11532bd6b.herokuapp.com/)
+  - An app for lending and borrowing boardgames.
+
+- #### :heavy_division_sign::mage_man: Math Wizard (student project) // [GitHub](https://github.com/alexdenbaugh/ajax-project) | [Website](https://alexdenbaugh.github.io/math-wizard/)
+  - A math tutoring app.
