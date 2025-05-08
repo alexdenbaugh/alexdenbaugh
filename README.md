@@ -12,7 +12,7 @@ I'm a Full-Stack Web Developer based in Temecula, CA.
 ## :rocket: Let's get connected!
 - :link: Linkedin: https://www.linkedin.com/in/alex-denbaugh/
 - :email: Email: alexdenbaugh@gmail.com
-- :briefcase: Resume: [alexdenbaugh](https://www.hiration.com/dieu/resume/alexdenbaugh/pdf)
+- :briefcase: Resume: [alexdenbaugh](https://docs.google.com/document/d/1d0diqOju_eaOxsw6ykylzbUKlG_ehh81tUgHgDfSlGk/edit?usp=sharing)
 
 ## Tech I have used:
 
