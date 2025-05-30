@@ -36,7 +36,6 @@ I'm a Full-Stack Web Developer based in Temecula, CA.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Tamagui](https://img.shields.io/badge/Tamagui-37FD12?style=for-the-badge)
-![NativeBase](https://img.shields.io/badge/NativeBase-50BFC2?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Back-End
@@ -53,6 +52,7 @@ I'm a Full-Stack Web Developer based in Temecula, CA.
 ### Database/ORM
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![IndexedDB](https://img.shields.io/badge/IndexedDB-003366?style=for-the-badge&logo=webcomponents.org&logoColor=white)
 
 ### Dev Tools
