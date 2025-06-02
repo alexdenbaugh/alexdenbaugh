@@ -66,8 +66,12 @@ I'm a Full-Stack Web Developer based in Temecula, CA.
   - Written in React and Typescript
    
 - #### Pug // a mobile app for booking, hosting and playing pick up sports games ⚽🏀🏈🏉
-  - Currently in Beta testing; link to landing page for Beta coming soon.
-  
+  - Currently in Beta testing; link to landing page for Beta coming soon
+
+- #### Team Manager API // [GitHub](https://github.com/alexdenbaugh/team-manager-api)
+  - A professional demonstration of modern API design using Node.js, TypeScript, and PostgreSQL
+  - Features Docker containerization, Prisma ORM, and comprehensive API documentation
+
 - #### :bird::game_die: Phoenix Games (student project) // [GitHub](https://github.com/alexdenbaugh/final-project) | [Website](https://phoenix-games-c1a11532bd6b.herokuapp.com/)
   - An app for lending and borrowing boardgames.
 
