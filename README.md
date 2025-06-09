@@ -72,6 +72,11 @@ I'm a Full-Stack Web Developer based in Temecula, CA.
   - A professional demonstration of modern API design using Node.js, TypeScript, and PostgreSQL
   - Features Docker containerization, Prisma ORM, and comprehensive API documentation
 
+- #### Stadium SQL Analytics // [GitHub](https://github.com/alexdenbaugh/stadium-sql-analytics)
+  - A professional demonstration of advanced SQL skills, relational database design, and data modeling.
+  - The schema is based on a simplified stadium management system, covering ticket sales, event management, gate entry tracking, and concession sales.
+  - Features **query writing and optimazation**, **database design**, **data modeling**, and **performance considerations**.
+
 - #### :bird::game_die: Phoenix Games (student project) // [GitHub](https://github.com/alexdenbaugh/final-project) | [Website](https://phoenix-games-c1a11532bd6b.herokuapp.com/)
   - An app for lending and borrowing boardgames.
 
