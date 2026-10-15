@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Alex!
-I'm a Full-Stack Web Developer based in Temecula, CA.
+I'm a Full-Stack Web Developer based in Oceanside, CA.
 
 ## What I am Currently working on
 - Lead Software Engineer @ Exact Controls working on our company website, customer portal and other cool projects.
